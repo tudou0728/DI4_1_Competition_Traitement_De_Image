@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Element index="M0275_02_0660_0">
+    <Coordinate coord="808,1582,47,136" />
+  </Element>
+  <Element index="M0275_02_0660_1">
+    <Coordinate coord="74,15,50,101" />
+  </Element>
+  <Element index="M0275_02_0660_2">
+    <Coordinate coord="243,25,51,677" />
+  </Element>
+  <Element index="M0275_02_0660_3">
+    <Coordinate coord="69,826,58,893" />
+  </Element>
+  <Element index="M0275_02_0660_4">
+    <Coordinate coord="65,1015,61,894" />
+  </Element>
+  <Element index="M0275_02_0660_5">
+    <Coordinate coord="55,1438,66,892" />
+  </Element>
+  <Element index="M0275_02_0660_6">
+    <Coordinate coord="72,764,67,891" />
+  </Element>
+  <Element index="M0275_02_0660_7">
+    <Coordinate coord="62,1062,68,894" />
+  </Element>
+  <Element index="M0275_02_0660_8">
+    <Coordinate coord="76,507,68,892" />
+  </Element>
+  <Element index="M0275_02_0660_9">
+    <Coordinate coord="77,380,69,897" />
+  </Element>
+  <Element index="M0275_02_0660_10">
+    <Coordinate coord="80,195,70,899" />
+  </Element>
+  <Element index="M0275_02_0660_11">
+    <Coordinate coord="61,1125,70,894" />
+  </Element>
+  <Element index="M0275_02_0660_12">
+    <Coordinate coord="67,943,71,895" />
+  </Element>
+  <Element index="M0275_02_0660_13">
+    <Coordinate coord="75,443,72,896" />
+  </Element>
+  <Element index="M0275_02_0660_14">
+    <Coordinate coord="70,880,73,890" />
+  </Element>
+  <Element index="M0275_02_0660_15">
+    <Coordinate coord="78,317,73,896" />
+  </Element>
+  <Element index="M0275_02_0660_16">
+    <Coordinate coord="81,132,73,898" />
+  </Element>
+  <Element index="M0275_02_0660_17">
+    <Coordinate coord="82,67,75,899" />
+  </Element>
+  <Element index="M0275_02_0660_18">
+    <Coordinate coord="72,693,78,893" />
+  </Element>
+  <Element index="M0275_02_0660_19">
+    <Coordinate coord="59,1249,80,893" />
+  </Element>
+  <Element index="M0275_02_0660_20">
+    <Coordinate coord="56,1312,80,894" />
+  </Element>
+  <Element index="M0275_02_0660_21">
+    <Coordinate coord="56,1375,80,893" />
+  </Element>
+  <Element index="M0275_02_0660_22">
+    <Coordinate coord="52,1498,80,893" />
+  </Element>
+  <Element index="M0275_02_0660_23">
+    <Coordinate coord="58,1188,81,897" />
+  </Element>
+  <Element index="M0275_02_0660_24">
+    <Coordinate coord="79,259,81,898" />
+  </Element>
+  <Element index="M0275_02_0660_25">
+    <Coordinate coord="0,8,60,893" />
+  </Element>
+  <Element index="M0275_02_0660_26">
+    <Coordinate coord="0,68,72,893" />
+  </Element>
+</root>

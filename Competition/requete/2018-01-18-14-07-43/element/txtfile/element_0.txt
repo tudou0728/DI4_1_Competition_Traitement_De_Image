@@ -1,0 +1,3 @@
+image
+G:\workspace_eclipse\Competition\requete\2018-01-18-14-07-43\element\element_0.jpg
+G:\workspace_eclipse\Competition\requete\2018-01-18-14-07-43\element\features\element_0.csv

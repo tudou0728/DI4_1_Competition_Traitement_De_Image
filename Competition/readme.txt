@@ -1,0 +1,2 @@
+1. Il faut changer le chemin de document executable d'outil (la classe 'Outil')
+2. cmd exemple: java -jar competition.jar "G:\workspace_eclipse\Competition\testImage\request" "G:\workspace_eclipse\Competition\testImage\image"

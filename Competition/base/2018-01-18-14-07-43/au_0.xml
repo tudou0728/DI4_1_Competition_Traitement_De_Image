@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Result id="1">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="271,878,44,57"/>
+		<Distance dis="0.452302"/>
+	</Result>
+	<Result id="2">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="274,131,59,77"/>
+		<Distance dis="0.200525"/>
+	</Result>
+	<Result id="3">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="78,879,60,78"/>
+		<Distance dis="0.256523"/>
+	</Result>
+	<Result id="4">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="786,508,61,79"/>
+		<Distance dis="0.350364"/>
+	</Result>
+	<Result id="5">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="234,1253,62,81"/>
+		<Distance dis="0.193187"/>
+	</Result>
+	<Result id="6">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="280,567,63,82"/>
+		<Distance dis="0.170989"/>
+	</Result>
+	<Result id="7">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="340,1188,63,82"/>
+		<Distance dis="0.200376"/>
+	</Result>
+	<Result id="8">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="185,753,63,82"/>
+		<Distance dis="0.191210"/>
+	</Result>
+	<Result id="9">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="631,1376,63,82"/>
+		<Distance dis="0.331336"/>
+	</Result>
+	<Result id="10">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="190,938,63,82"/>
+		<Distance dis="0.226677"/>
+	</Result>
+	<Result id="11">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="201,691,64,83"/>
+		<Distance dis="0.220657"/>
+	</Result>
+	<Result id="12">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="649,521,45,59"/>
+		<Distance dis="0.420999"/>
+	</Result>
+	<Result id="13">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="442,254,64,83"/>
+		<Distance dis="0.195784"/>
+	</Result>
+	<Result id="14">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="251,444,64,83"/>
+		<Distance dis="0.203687"/>
+	</Result>
+	<Result id="15">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="152,626,64,83"/>
+		<Distance dis="0.213594"/>
+	</Result>
+	<Result id="16">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="362,1434,65,85"/>
+		<Distance dis="0.220359"/>
+	</Result>
+	<Result id="17">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="154,1500,65,85"/>
+		<Distance dis="0.252254"/>
+	</Result>
+	<Result id="18">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="551,1125,65,85"/>
+		<Distance dis="0.198443"/>
+	</Result>
+	<Result id="19">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="222,1309,67,87"/>
+		<Distance dis="0.169506"/>
+	</Result>
+	<Result id="20">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="224,380,67,87"/>
+		<Distance dis="0.218935"/>
+	</Result>
+	<Result id="21">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="162,2,64,83"/>
+		<Distance dis="0.193918"/>
+	</Result>
+	<Result id="22">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="527,66,47,61"/>
+		<Distance dis="0.267679"/>
+	</Result>
+	<Result id="23">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="238,0,112,146"/>
+		<Distance dis="0.411980"/>
+	</Result>
+	<Result id="24">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="89,504,47,61"/>
+		<Distance dis="0.303726"/>
+	</Result>
+	<Result id="25">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="87,16,48,62"/>
+		<Distance dis="0.212744"/>
+	</Result>
+	<Result id="26">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="448,67,50,65"/>
+		<Distance dis="0.256109"/>
+	</Result>
+	<Result id="27">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="808,73,53,69"/>
+		<Distance dis="0.363161"/>
+	</Result>
+	<Result id="28">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="183,819,58,75"/>
+		<Distance dis="0.255894"/>
+	</Result>
+	<Result id="29">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0656.jpg"/>
+		<Coordinate coor="227,1375,59,77"/>
+		<Distance dis="0.229178"/>
+	</Result>
+	<Result id="30">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="839,1582,47,61"/>
+		<Distance dis="0.462347"/>
+	</Result>
+	<Result id="31">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="85,15,50,65"/>
+		<Distance dis="0.311307"/>
+	</Result>
+	<Result id="32">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="320,1125,70,91"/>
+		<Distance dis="0.457712"/>
+	</Result>
+	<Result id="33">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="407,943,71,92"/>
+		<Distance dis="0.275973"/>
+	</Result>
+	<Result id="34">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="275,443,72,93"/>
+		<Distance dis="0.152663"/>
+	</Result>
+	<Result id="35">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="642,880,73,95"/>
+		<Distance dis="0.252100"/>
+	</Result>
+	<Result id="36">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="495,317,73,95"/>
+		<Distance dis="0.160357"/>
+	</Result>
+	<Result id="37">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="464,132,73,95"/>
+		<Distance dis="0.183031"/>
+	</Result>
+	<Result id="38">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="610,67,75,97"/>
+		<Distance dis="0.234884"/>
+	</Result>
+	<Result id="39">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="522,693,78,102"/>
+		<Distance dis="0.234388"/>
+	</Result>
+	<Result id="40">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="594,1249,80,104"/>
+		<Distance dis="0.213720"/>
+	</Result>
+	<Result id="41">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="520,25,51,66"/>
+		<Distance dis="0.181053"/>
+	</Result>
+	<Result id="42">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="501,1312,80,104"/>
+		<Distance dis="0.179868"/>
+	</Result>
+	<Result id="43">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="383,1375,80,104"/>
+		<Distance dis="0.192286"/>
+	</Result>
+	<Result id="44">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="355,1498,80,104"/>
+		<Distance dis="0.209725"/>
+	</Result>
+	<Result id="45">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="118,1188,81,105"/>
+		<Distance dis="0.203356"/>
+	</Result>
+	<Result id="46">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="484,259,81,105"/>
+		<Distance dis="0.243467"/>
+	</Result>
+	<Result id="47">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="450,8,60,78"/>
+		<Distance dis="0.184498"/>
+	</Result>
+	<Result id="48">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="434,68,72,93"/>
+		<Distance dis="0.168035"/>
+	</Result>
+	<Result id="49">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="385,826,58,75"/>
+		<Distance dis="0.240213"/>
+	</Result>
+	<Result id="50">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="522,1015,61,79"/>
+		<Distance dis="0.181275"/>
+	</Result>
+	<Result id="51">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="313,1438,66,85"/>
+		<Distance dis="0.223245"/>
+	</Result>
+	<Result id="52">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="701,764,67,87"/>
+		<Distance dis="0.186180"/>
+	</Result>
+	<Result id="53">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="294,1062,68,89"/>
+		<Distance dis="0.166591"/>
+	</Result>
+	<Result id="54">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="194,507,68,89"/>
+		<Distance dis="0.168437"/>
+	</Result>
+	<Result id="55">
+		<Image path="G:/workspace_eclipse/Competition/base/2018-01-18-14-07-43/M0275_02_0660.jpg"/>
+		<Coordinate coor="104,380,69,90"/>
+		<Distance dis="0.180902"/>
+	</Result>
+</root>
+
